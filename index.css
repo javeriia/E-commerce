@@ -1,0 +1,74 @@
+
+body{
+    background: rgb(241,232,232);
+background: linear-gradient(90deg, rgba(241,232,232,1) 0%, rgba(222,226,184,1) 53%, rgba(62,101,135,1) 100%);
+}
+.nav-link:hover{
+    color: white !important;
+}
+.nav-link{
+    color: rgb(203, 209, 215) !important;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+        
+    /* .wwa{
+        display: block;
+        margin: 0 auto;
+        max-width: 40%;
+        height: auto;
+     */
+    
+    .navbar-brand{
+        
+        color: rgb(255, 255, 255);
+    }
+   
+    
+    
+    #shoecard{
+        font-family: serif;
+        /* font-size: 3rem; */
+        text-align: center;
+        /* background-color: rgb(248, 248, 248); */
+        background-color: rgb(228, 219, 219);
+    }
+  
+  
+#zoom{
+    transition: all 0.3s;
+}
+#zoom:hover{
+    transform: scale(1.15);
+}
+hr{
+    border-top: 1px solid black;
+}
+@media (max-width:760px)
+{
+    /* #cardres,#cardbod,#carditem{
+        width: 20px;
+        height: 10px;
+        margin-bottom: 300px;
+       
+    }  */
+#emailte{
+    max-width: 200px !important;
+    
+   
+}
+#lastrow{
+    
+    margin: 40px;
+}
+
+
+}
+ 
+  
+
+
+    
+    
+    
